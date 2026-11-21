@@ -1,0 +1,22 @@
+{
+  "wheel_id": 936,
+  "structure": "umbrella",
+  "slug": "homeloanbrokeripswich-110",
+  "project": "mortgage-broker-ipswich-glossary-a04e217ef1ef1c382d7b220a6f255e",
+  "parent_t1_ref": "homeloanbrokeripswich-154",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokeripswich.com.au",
+  "primary_kw": "mortgage broker ipswich glossary",
+  "intended_url": "https://aumedia.neocities.org/mortgage-broker-ipswich-glossary-a04e217ef1ef1c382d7b220a6f255e/",
+  "tier": "T2",
+  "writeback_nonce": "850e585c201d7f29",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/homeloanbrokeripswich-154/",
+      "anchor": "the mortgage broker ipswich budget tips overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
